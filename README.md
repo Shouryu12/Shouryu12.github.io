@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url)
+![Image](src)
 ```
 [Link](https://www.facebook.com/mmateusouza)
 ![Image of Mateus](C:\Users\solel\Desktop\Fotos pro site do github pages\Mateus Mota.jpg)
