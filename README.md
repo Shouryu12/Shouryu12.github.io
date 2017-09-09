@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 [Link](https://www.facebook.com/mmateusouza)
-![Image](https://www.facebook.com/photo.php?fbid=460829570975424&set=a.121069971618054.1073741826.100011451550667&type=3&theater)
+![Image of Mateus](https://www.facebook.com/photo.php?fbid=460829570975424&set=a.121069971618054.1073741826.100011451550667&type=3&theater)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
